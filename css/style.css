@@ -12,11 +12,32 @@ body {
   background-color: #f9f1dd;
 }
 
-h1.display-1 {
-  color: #c0473f;
+h1.display-1,
+h4.display-4 {
+  color: #cb3d34;
+  text-shadow: 0px 0px 10px #1b3658;
+}
+
+.nav-item {
+  color: #427eea;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 300;
 }
 
 #nav-logo {
   font-family: "Libre Barcode 39 Text", cursive;
   font-size: 36px;
+}
+
+#about,
+.album-back {
+  background-color: #1b3658;
+  color: #f9f1dd;
+}
+
+a img:hover {
+  filter: contrast(150%) saturate(150%);
 }
