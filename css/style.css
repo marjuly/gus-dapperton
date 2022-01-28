@@ -1,0 +1,22 @@
+body {
+  font-family: "Asap Condensed", sans-serif;
+  background: url("../img/thishasafilter.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar-light,
+#nav-logo {
+  background-color: #f9f1dd;
+}
+
+h1.display-1 {
+  color: #c0473f;
+}
+
+#nav-logo {
+  font-family: "Libre Barcode 39 Text", cursive;
+  font-size: 36px;
+}
