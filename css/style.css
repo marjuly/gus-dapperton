@@ -5,11 +5,16 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-color: #f9f1dd;
 }
 
 .navbar-light,
 #nav-logo {
   background-color: #f9f1dd;
+}
+
+#nav-logo {
+  color: #1b3658;
 }
 
 h1.display-1,
